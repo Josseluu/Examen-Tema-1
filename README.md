@@ -1,4 +1,5 @@
 # Examen-Tema-1
+
 PARTE 1 
 
 PREGUNTAS DE OPCION MÚLTIPLE
@@ -10,6 +11,10 @@ La pregunta 2, la opcion correcta es el apartado b "Un archivo que ayuda a gesti
 La pregunta 3, la opcióon correcta es el apartado b "Variables que almacenan la dirección de otra variable"
 
 PARTE 2
+
+LINK PARA IR A CLION Y VER LOS CODIGOS
+
+https://github.com/Josseluu/Examen-Tema-1.git
 
 PRBLEMAS DE CODIFICACIÓN
 
