@@ -46,6 +46,9 @@ El problema de registro de profesores:
 
 Defino una clase llamada Profesor que representa a un profesor con atributos como nombre, edad, la materia que da y  los años de experiencia. En la función principal, se crean dos objetos de esta clase (profesor1 y profesor2) con información específica y se muestra la información detallada de cada profesor. 
 
+
+Me he ayudado de GitHub Copilot
+
  
 PARTE 3 
 
@@ -71,4 +74,7 @@ La pregunta número 10:
 Cuando los objetos obtienen recursos de una función y lanzan una excepción, los recursos deben liberarse antes de que la ejecución se transfiera al manejador de excepciones
 
 Estan relacionadas ya que es fundamental para que el código sea seguro y se libere correctamente y no haya error
+
+
+Me  he ayudado de los apuntes subidos
 
